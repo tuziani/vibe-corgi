@@ -2,10 +2,11 @@
 
 Vibe Corgi for Mac, newest first. Each build is the DMG on [vibecorgi.net](https://vibecorgi.net) and the Homebrew cask `tuziani/tap/vibe-corgi`.
 
-## 0.1.2 (17) — 2026-09-27
+## 0.1.2 (18) — 2026-09-27
 
 - No trial on new installs: Vibe Corgi for Mac is a $4.99 one-time purchase on vibecorgi.net. Until a licence key is entered, the corgi lies down with an 「Unlock · $4.99」 bubble above its head and the menu shows no agent details. Macs still inside a trial started on 0.1.0 / 0.1.1 keep the days they have left.
 - Entering a key brings everything back at once, no relaunch.
+- Wording reviewed in all 28 languages: menu names quoted on the site now match the app exactly, and terms such as discreet mode read the same in the app and on the site.
 
 ## 0.1.1 (16) — 2026-09-12
 
